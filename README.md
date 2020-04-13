@@ -17,7 +17,7 @@ The page is fully responsive, it works properly on tablets and mobile phones (te
 ![Alt text](desktop-recipe.png?raw=true "Desktop recipe view")
 ![Alt text](desktop-ingredients.png?raw=true "Desktop ingredients list view")
 
-<img src="tablet-landscape.png" alt="Tablet landsape orientation view" width="50%"/>
+<img src="tablet-landsape.png" alt="Tablet landscape orientation view" width="50%"/>
 <img src="tablet-portrait.png" alt="Tablet portrait orientation view" width="50%"/>
 
 <img src="phone-portrait-home.png" alt="Phone portrait orientation - homepage" width="50%"/>
