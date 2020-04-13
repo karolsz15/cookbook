@@ -17,15 +17,15 @@ The page is fully responsive, it works properly on tablets and mobile phones (te
 ![Alt text](desktop-recipe.png?raw=true "Desktop recipe view")
 ![Alt text](desktop-ingredients.png?raw=true "Desktop ingredients list view")
 
-![Alt text](tablet-landscape.png?raw=true "Tablet landsape orientation view")
-![Alt text](tablet-portrait.png?raw=true "Tablet portrait orientation view")
+![Alt text](tablet-landscape.png?raw=true "Tablet landsape orientation view"){:height="50%" width="50%"}
+![Alt text](tablet-portrait.png?raw=true "Tablet portrait orientation view"){:height="50%" width="50%"}
 
-![Alt text](phone-portrait-home.png?raw=true "Phone portrait orientation - homepage")
-![Alt text](phone-portrait-search.png?raw=true "Phone portrait orientation - recipe search")
-![Alt text](phone-portrait-error.png?raw=true "Phone portrait orientation - search error")
-![Alt text](phone-portrait-recipe.png?raw=true "Phone portrait orientation - recipe")
-![Alt text](phone-portrait-likes.png?raw=true "Phone portrait orientation - popup likes list")
-![Alt text](phone-portrait-shopping-list.png?raw=true "Phone portrait orientation - shopping list")
+![Alt text](phone-portrait-home.png?raw=true "Phone portrait orientation - homepage"){:height="50%" width="50%"}
+![Alt text](phone-portrait-search.png?raw=true "Phone portrait orientation - recipe search"){:height="50%" width="50%"}
+![Alt text](phone-portrait-error.png?raw=true "Phone portrait orientation - search error"){:height="50%" width="50%"}
+![Alt text](phone-portrait-recipe.png?raw=true "Phone portrait orientation - recipe"){:height="50%" width="50%"}
+![Alt text](phone-portrait-likes.png?raw=true "Phone portrait orientation - popup likes list"){:height="50%" width="50%"}
+![Alt text](phone-portrait-shopping-list.png?raw=true "Phone portrait orientation - shopping list"){:height="50%" width="50%"}
 
 
 
