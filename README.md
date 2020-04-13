@@ -26,12 +26,12 @@ The page is fully responsive, it works properly on tablets and mobile phones (te
 <img src="tablet-landsape.png" alt="Tablet landscape orientation view" height="50%"/>
 
 5. Tablet portrait orientation view
-<img src="tablet-portrait.png" alt="Tablet portrait orientation view" height="50%"/>
+<img src="tablet-portrait.png" alt="Tablet portrait orientation view" height="30%"/>
 
 6. Phone portrait orientation - homepage
 <img src="phone-portrait-home.png" alt="Phone portrait orientation - homepage" width="30%"/>
 
-7.Phone portrait orientation - recipe search
+7. Phone portrait orientation - recipe search
 <img src="phone-portrait-search.png" alt="Phone portrait orientation - recipe search" width="30%"/>
 
 8. Phone portrait orientation - search error
