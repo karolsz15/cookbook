@@ -13,7 +13,7 @@ The app gets data from a Forkify API - https://forkify-api.herokuapp.com/ .
 List of all available search queries is here - https://forkify-api.herokuapp.com/phrases.html .
 The page is fully responsive, it works properly on tablets and mobile phones (tested on iPad's and iPhones resolutions).
 
-![Alt text](desktop-home.png?raw=true "Desktop home view")
+<img src="desktop-home.png" alt="Your image title" width="50%"/>
 ![Alt text](desktop-recipe.png?raw=true "Desktop recipe view")
 ![Alt text](desktop-ingredients.png?raw=true "Desktop ingredients list view")
 
