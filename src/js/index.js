@@ -280,7 +280,7 @@ if(document.documentElement.clientWidth <= 760) {
 //TOGGLING LIKES MENU ON CLICK FOR TOUCH SCREEN DEVICES (INSTEAD OF SHOWING IT ON :HOVER)
 
 if(document.documentElement.clientWidth <= 1200) {
-    document.querySelector('.likes, .likes *').addEventListener('click', function(e) {
+    document.querySelector('.likes__icon').addEventListener('click', function(e) {
         const likes_panel = document.querySelector('.likes__panel');
         if(likes_panel.style.visibility == 'hidden') {
             likes_panel.style.visibility = 'visible';
