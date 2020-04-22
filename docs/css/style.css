@@ -197,7 +197,6 @@ body {
         padding: 0 !important; }
         .likes__field {
           cursor: pointer;
-          padding: 0 4rem;
           display: flex;
           align-items: center;
           height: 100%;
@@ -620,13 +619,15 @@ body {
 @media(max-width:576px) {
 
   .header {
-    justify-content: space-around;
-    padding: 1em;
+    justify-content: space-between;
+    padding: 0.2em;
   }
 
   .search {
-  margin-top: .5rem;
-  max-width: 60%; 
+  display: flex;
+  justify-content: flex-end;
+  margin: .5rem 0;
+  max-width: 65%; 
   }
 
   .search__btn {
@@ -639,9 +640,7 @@ body {
   }
 
   .likes__field {
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 2em;
+    margin: 0 1em;
   }
 
   .likes__panel {
