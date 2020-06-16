@@ -1,3 +1,5 @@
+LIVE: https://karolsz15.github.io/cookbook/
+
 Cookbook web application containing hundreds of recipes. User is able to:
 
 - search for recipes
